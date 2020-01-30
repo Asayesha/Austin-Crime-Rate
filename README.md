@@ -8,9 +8,9 @@ Austin government portal.( https://data.austintexas.gov/Public-Safety/Crime-Repo
 
 ### Approach :  
 Analysed data by
-a.	Crime type – Violent and non-violent crimes
-b.	Time  - Time of day, week, month and year
-c.	APD sectors 
+1.	Crime type – Violent and non-violent crimes
+2.	Time  - Time of day, week, month and year
+3.	APD sectors 
 
 ### Insights :
 1.	Non-violent crimes have increased and violent crimes have decreased
